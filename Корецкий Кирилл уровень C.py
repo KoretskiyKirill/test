@@ -22,7 +22,6 @@ except(ValueError):
     print('ЧИСЛО!!!')
 #3
 lst.clear()
-import random
 try:
     n = int(input())
 except(ValueError):
